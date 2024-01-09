@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "tissubassa"!
+## My name is "tissubassa"!
 
 <!--
 **tissubassa/tissubassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
